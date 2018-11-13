@@ -1,3 +1,3 @@
 #BridgeGui
 
-Créé par Ghali BOUCETTA, en utilisant la SFML.
+Créé par EL ARJA Mohamed en utilisant la SFML.
